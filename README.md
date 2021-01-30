@@ -1,4 +1,12 @@
-# Offline-Signature-Verification-using-Siamese-Network
+
+# Difference from fork - 
+SigNet.ipynb - English OpenSource Signatures with some custom signatures and updated version :-
+https://colab.research.google.com/github/vasantvohra/Offline-Signature-Verification-using-Siamese-Network/blob/master/SigNet.ipynb
+
+Technical Information for understanding - 
+https://www.linkedin.com/pulse/handwritten-signature-verification-deep-learning-vasant-vohra/
+
+## Offline-Signature-Verification-using-Siamese-Network
 
 Offline Signature Verification using Siamese Convolutional Neural Networks.
 
